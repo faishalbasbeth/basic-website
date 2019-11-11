@@ -1,0 +1,50 @@
+#sidebar
+{
+    background  : #DC143C;  
+    float       : left;
+    height      : 390px;
+    width       :30.5%;
+    font-size   : 1.5em;
+    font-family: "MS Gothic", monospace;
+    text-align  :center;
+    padding-top : 20px;
+ 
+}
+#content
+{
+    background  : #DC143C;
+    float       : right;
+    width       : 68%;
+    height      : 390px;
+    font-size   : 1.5em;
+    font-family: "MS Gothic", monospace;
+    text-align  :center;
+    padding-top : 30px;
+}
+#footer
+{
+    background  : #8B0000;
+    clear       : both;
+    font-size   : 1.5em;
+    text-align  :center;
+}
+.jumbotron {
+    width: 100%;
+    font-family: "MS Gothic", monospace;
+    padding: 25px 25px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    background-color: #8B0000;
+}
+.thumbnail {
+    background-color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+padding: 10px;
+}
+.bulat{
+border-radius:100em;
+width:250px;
+height:250px;
+}
